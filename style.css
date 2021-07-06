@@ -2,12 +2,15 @@ body{
     font-family: 'Poppins', sans-serif;
     margin: 0;
 }
+.font-size{
+    font-size: 50px;
+}
 .partial-color{
     color: orange;
 }
 .flexible{
     display: flex;
-    padding-bottom: 0%;
+    padding-bottom: 50px;
     padding-top: 5%;
     margin: 0%;
 }
@@ -15,7 +18,7 @@ body{
     width: 50%;
     padding-left: 5%;
     padding-right: 7%;
-    padding-bottom: 20px;
+    padding-bottom: 30px;
     margin: 0%;
 }
 .button-color{
